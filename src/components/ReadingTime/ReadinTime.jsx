@@ -1,3 +1,4 @@
+import PropTypes from 'prop-types';
 
 const ReadinTime = ({markRead}) => {
     return (
@@ -7,4 +8,7 @@ const ReadinTime = ({markRead}) => {
     );
 };
 
+ReadinTime.propTypes ={
+    markRead: PropTypes.number.isRequired
+}
 export default ReadinTime;

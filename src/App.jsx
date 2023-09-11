@@ -17,7 +17,10 @@ function App() {
    const handleMarkeRad = blog => {
     const newReadTime = markRead + blog.reading_time;
     setMarkRead(newReadTime);
+    const removedBookmark = bookmarkes.filter(bookmark => bookmark.id !== blog.id)
+    setBookmarkes(removedBookmark);
     }
+
 
 // console.log(bookmarkes)
 
