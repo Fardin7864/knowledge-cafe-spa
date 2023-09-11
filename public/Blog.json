@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/KrD7yGR/1.jpg",
+      "title": "Exploring the Wonders of Nature",
+      "author_img": "https://i.ibb.co/qgTqw6Y/girl2.jpg",
+      "author": "John Doe",
+      "posted_date": "2023-09-01",
+      "reading_time": 8,
+      "hashtags": ["nature", "adventure", "outdoors"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/wc37N7B/2.png",
+      "title": "The Art of Cooking: A Culinary Journey",
+      "author_img": "https://i.ibb.co/t8yDvN5/girl1.jpg",
+      "author": "Jane Smith",
+      "posted_date": "2023-08-25",
+      "reading_time": 10,
+      "hashtags": ["food", "cooking", "recipes"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/VMkcYP4/3.png",
+      "title": "Tech Trends: The Future of Innovation",
+      "author_img": "https://i.ibb.co/QKmYhPY/boy2.jpg",
+      "author": "Michael Johnson",
+      "posted_date": "2023-08-15",
+      "reading_time": 6,
+      "hashtags": ["technology", "innovation", "trends"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/mvBpz4R/4.jpg",
+      "title": "Traveling on a Budget: Tips and Tricks",
+      "author_img": "https://i.ibb.co/khqL3SS/boy1.png",
+      "author": "Emily Wilson",
+      "posted_date": "2023-07-30",
+      "reading_time": 5,
+      "hashtags": ["travel", "budget", "adventure"]
+    }
+  ]
